@@ -2,7 +2,7 @@
 
 💻  Aspiring Software Engineer with experience in Web Development, Cybersecurity, and AI. <br/>
 🎓  Graduating form [OsloMet](https://www.oslomet.no/studier/tkd/dataingenior) with a Bachelor in Software Engineering in June 2024. <br/>
-🎲  Top grades in Java, Database, System Development, Networks & Cloud, Intro to A.I., Project Development, and Computer Security. <br/>
+🎲  Top grades in Java, Database, System Dev., Networks & Cloud, Intro to A.I., Project Dev., and Computer Security. <br/>
 👁️  Proficient with VSCode, IntelliJ, JavaScript, TypeScript, Python, Java, Bash, HTML, and CSS. <br/>
 🛠  Strong understanding of cybersecurity principles. <br/>
 🎭  Blend of technical expertise and creative problem-solving skills. <br/>

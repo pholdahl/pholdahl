@@ -1,4 +1,4 @@
-# Hello there, I'm Pholdahl
+# Hello there and welcome!
 
 💻  Aspiring Software Engineer with experience in Web Development, Cybersecurity, and AI. <br/>
 🎓  Graduating from [OsloMet](https://www.oslomet.no/studier/tkd/dataingenior) with a Bachelor in Software Engineering in June 2024. <br/>

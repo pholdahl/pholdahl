@@ -22,9 +22,10 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
+<!--
 ## Stats
 [![Pholahl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pholdahl&count_private=true&show_icons=true&theme=tokyonights&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->

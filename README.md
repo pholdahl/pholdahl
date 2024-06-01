@@ -7,7 +7,7 @@
 🛠  Strong understanding of cybersecurity principles. <br/>
 🎭  Blend of technical expertise and creative problem-solving skills. <br/>
 🎮  Enjoy gaming and immersive experiences like escape rooms. <br/>
-🚀  Passionate about solving puzzles and traveling to experience different cultures. <br/>
+🌟  Unique blend with a background in theatre production enabling a distinctive creative approach to tackling challenges. <br/>
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
